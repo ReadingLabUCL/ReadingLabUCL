@@ -1,6 +1,6 @@
 ### Welcome to Tumour Immunodynamics (TIDY) Research Group at UCL Cancer Institute
 
-Group Leader: Dr James Reading
+### Group Leader: Dr James Reading
 
 Our research focuses on deciphering the progressive dysregulation of tissue resident and systemic CD4 and CD8 T cell responses to mutation encoded neoantigens from health to death, in several unique clinical cohorts representing a range of cancer types. By longitudinally profiling neoantigen-reactive T cells at the functional, transcriptional, phenotypic and epigenetic level we aim to discern novel biomarkers and actionable T cell-intrinsic targets to inform future preventative and therapeutic immuno-oncology regimens
 
